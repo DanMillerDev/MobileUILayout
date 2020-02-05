@@ -1,6 +1,6 @@
 # MobileUILayout
 
-Project showing off scaling and rooting UI to adjust between mobile resolutions. 
+Project showing off scaling and anchoring UI to adjust between mobile resolutions. 
 
 ![image](https://imgur.com/t9t0qhp.png)
 
